@@ -1,0 +1,4 @@
+{
+	"heights":[256, 224, 192, 160, 128],
+	"pattern":[{type:0, height:3, span:4, front:true, back:false, step:null},{type:5, height:null, span:2, front:null, back:null, step:null},{type:0, height:1, span:6, f:false, b:false, step:null},{type:5, height:null, span:1, front:null, back:null, step:null},{type:0, height:2, span:2, }]
+}
